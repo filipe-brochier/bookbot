@@ -4,3 +4,4 @@ mypy-extensions==1.0.0
 packaging==23.2
 pathspec==0.12.1
 platformdirs==4.2.0
+python-dotenv==1.0.1
