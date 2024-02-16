@@ -1,6 +1,6 @@
 # Book Bot
 
-Welcome to Book Bot, your go-to Python program for diving deep into the heart of books with ease. Built as your first project on boot.dev, Book Bot is designed to analyze entire books, providing a comprehensive statistical report that unveils the patterns, frequencies, and secrets hidden within the text.
+Welcome to Book Bot, your go-to Python program for diving deep into the heart of books with ease. Built as my very first project on boot.dev, Book Bot is designed to analyze entire books, providing a comprehensive statistical report that unveils the patterns, frequencies, and secrets hidden within the text.
 
 ## Features
 
