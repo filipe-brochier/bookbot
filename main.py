@@ -1,4 +1,4 @@
-from src.helpers import get_text, get_num_words, get_chars_dict
+from src.helpers import get_text, get_chars_dict, get_num_words, print_report
 from dotenv import load_dotenv
 from os import getenv
 
@@ -9,6 +9,6 @@ def main():
   num_words = get_num_words(text)
   chars_dict = get_chars_dict(text)
 
-  print(chars_dict)
+  print_report(chars_dict, num_words, book_path)
 
 main()
